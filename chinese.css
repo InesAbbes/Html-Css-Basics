@@ -1,0 +1,52 @@
+header , h2 {
+    background-color:#f2f2f2;
+
+}
+.h1{background-color: lightblue;
+    font-style:italic;
+}
+img {
+    height: 400px;
+    display: inline-block;
+    float: left;
+    margin-right: 5em;
+}
+story {
+    margin: auto;
+    width: 80%;
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+q {
+    font-style: italic;
+    font-size: 160%;
+    background-color: grey;
+    border-left: 3px solid;
+    padding-left: 30px;
+}
+body {
+    font-family: 'Open Sans', serif;
+    max-width: 100%;
+    margin: auto;
+    background-image: linear-gradient(darksalmon, salmon, white);
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    letter-spacing: 1px;
+    color: black;
+}
+.conclusion {
+    border-bottom: 3px solid;
+}
+.good {
+    text-transform: capitalize;
+    color:black;
+    font-weight: normal;
+}
+
+.bad {
+    text-transform: capitalize;
+    color:black;
+    font-weight: normal;
+}
